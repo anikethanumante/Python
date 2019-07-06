@@ -28,8 +28,6 @@ print("2.substraction")
 print("3.mutiplication")
 print("4.division")
 
-yes = 1
-no = 0
 while True:
     choice = input("Please enter your choice(1/2/3/4):")
 
